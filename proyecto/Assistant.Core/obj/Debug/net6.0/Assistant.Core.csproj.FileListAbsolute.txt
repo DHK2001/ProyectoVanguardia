@@ -1,0 +1,12 @@
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\bin\Debug\net6.0\Assistant.Core.deps.json
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\bin\Debug\net6.0\Assistant.Core.dll
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\bin\Debug\net6.0\Assistant.Core.pdb
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\Assistant.Core.csproj.AssemblyReference.cache
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\Assistant.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\Assistant.Core.AssemblyInfoInputs.cache
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\Assistant.Core.AssemblyInfo.cs
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\Assistant.Core.csproj.CoreCompileInputs.cache
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\Assistant.Core.dll
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\refint\Assistant.Core.dll
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\Assistant.Core.pdb
+C:\Users\dhenr\Documents\proyecto\Assistant.Core\obj\Debug\net6.0\ref\Assistant.Core.dll
